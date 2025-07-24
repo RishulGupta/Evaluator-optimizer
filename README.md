@@ -3,6 +3,11 @@
 The **Evaluator-Optimizer** pattern utilizes two large language model (LLM) calls working together — one to generate content (the optimizer), and another to evaluate it (the evaluator). This iterative loop helps improve quality by generating feedback and refining the response based on it.
 
 ---
+<div align="center">
+  <img src="https://github.com/RishulGupta/Evaluator-optimizer/blob/429aa39d13e2b86fb2fe34e4bbf1bc89f87ff010/Screenshot%202025-07-24%20210918.png" width="700">
+  <img src="https://github.com/RishulGupta/Evaluator-optimizer/blob/429aa39d13e2b86fb2fe34e4bbf1bc89f87ff010/Screenshot%202025-07-24%20210846.png" width="200">
+</div>
+
 
 ## 🔄 How It Works
 
