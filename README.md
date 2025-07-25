@@ -14,7 +14,7 @@ The **Evaluator-Optimizer** pattern utilizes two large language model (LLM) call
 1. The **optimizer** LLM creates an initial draft or output.
 2. The **evaluator** LLM assesses the output using defined criteria and offers feedback.
 3. The optimizer uses the feedback to revise the output.
-4. This loop continues until the result meets the desired standard.
+4. This loop continues until the result meets the desired  standard.
 
 ---
 
